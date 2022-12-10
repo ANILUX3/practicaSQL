@@ -4,6 +4,6 @@ Aquí están los archivos de la práctica.
 
 ER.drawio
 
-script.sql
+Script_AnA.sql
 
-query.sql
+Query_AnA.sql
