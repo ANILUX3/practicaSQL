@@ -1,4 +1,4 @@
-Práctica del módulo SQL
+*Práctica del módulo SQL*
 
 Aquí están los archivos de la práctica.
 
@@ -8,7 +8,7 @@ ER_AnA.drawio
 
 Script_AnA.sql
 
-![esquema_sql](https://user-images.githubusercontent.com/100804318/206884618-e71404ae-c709-4927-8b41-00bc69b86fbb.PNG)
+![esquema_sql](https://user-images.githubusercontent.com/100804318/206886652-5c919084-6128-4847-8894-d1e5ceb719e7.PNG)
 
 Query_AnA.sql
 
