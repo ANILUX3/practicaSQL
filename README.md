@@ -10,5 +10,6 @@ Script_AnA.sql
 
 ![esquema_sql](https://user-images.githubusercontent.com/100804318/206884618-e71404ae-c709-4927-8b41-00bc69b86fbb.PNG)
 
-
 Query_AnA.sql
+
+![query](https://user-images.githubusercontent.com/100804318/206886476-3a244146-4ed8-405a-b5f5-6568107d69a0.PNG)
